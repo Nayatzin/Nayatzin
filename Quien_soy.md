@@ -1,4 +1,3 @@
-<img src=">
 - 👋 Hi, I’m @Nayatzin
 - 👀 I’m interested in Inteligencia artificial
 -  🌱 I’m currently learning Tecnología educativa
