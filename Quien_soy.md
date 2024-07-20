@@ -1,11 +1,11 @@
 <img src="foto.png">
-- 👋 Hi, I’m @Nayatzin
-- 👀 I’m interested in Inteligencia artificial
--  🌱 I’m currently learning Tecnología educativa
-- 💞️ I’m looking to collaborate on proyectos educativos y editoriales
-- 📫 How to reach me nayatzingarrido@uninnova.mx
-- 😄 Pronouns: ella
-- ⚡ Fun fact: Me gusan los caballos
+- 👋 Hi, I’m @Nayatzin </br>
+- 👀 I’m interested in Inteligencia artificial</br>
+-  🌱 I’m currently learning Tecnología educativa</br>
+- 💞️ I’m looking to collaborate on proyectos educativos y editoriales</br>
+- 📫 How to reach me nayatzingarrido@uninnova.mx</br>
+- 😄 Pronouns: ella</br>
+- ⚡ Fun fact: Me gusan los caballos</br>
 
 <!---
 Nayatzin/Nayatzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
